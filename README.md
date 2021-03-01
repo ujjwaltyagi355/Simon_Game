@@ -33,7 +33,9 @@ https://ujjwaltyagi355.github.io/Simon_Game/
 * <strong>Note: How the <em>"title"</em> of the page changes.
 
 
-![image](https://user-images.githubusercontent.com/61249902/109551188-3edac400-7af6-11eb-9072-0204c1c1db2b.png)
+![image](https://user-images.githubusercontent.com/61249902/109551599-c1fc1a00-7af6-11eb-97e6-b2f2aea7aa8a.png)
+
+
 
 
 ---
@@ -42,12 +44,14 @@ https://ujjwaltyagi355.github.io/Simon_Game/
 * <strong>Note:</strong> How the <em>"title"</em> of the page changes with the increase in Level.
 
 
-![image](https://user-images.githubusercontent.com/61249902/109551264-587c0b80-7af6-11eb-9ecb-f08093a5ee49.png)
+![image](https://user-images.githubusercontent.com/61249902/109551659-d809da80-7af6-11eb-8bf2-f84043241f92.png)
+
 
 
 ---
 
 * <strong>The Game Ends when you enter a <em>Wrong</em> Sequence.</strong>
+
 
 ![image](https://user-images.githubusercontent.com/61249902/109501702-fb646380-7abd-11eb-910b-ece614f49664.png)
 
