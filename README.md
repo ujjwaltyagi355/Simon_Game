@@ -14,13 +14,16 @@ All the functionalities like `button click`, `button animation`, `sound play`, `
 
 ## Screeshots of the UI
 
-![image](https://user-images.githubusercontent.com/61249902/109499734-4c268d00-7abb-11eb-9492-a539d0a6d220.png)
+![image](https://user-images.githubusercontent.com/61249902/109501456-9a3c9000-7abd-11eb-8b83-1c562a5d74fd.png)
 
-![image](https://user-images.githubusercontent.com/61249902/109499777-59437c00-7abb-11eb-9f9e-8618019d8f52.png)
 
-![image](https://user-images.githubusercontent.com/61249902/109499830-65c7d480-7abb-11eb-8901-bb87c57ebe4f.png)
+![image](https://user-images.githubusercontent.com/61249902/109501570-c6f0a780-7abd-11eb-9514-67e26dad39e8.png)
 
-![image](https://user-images.githubusercontent.com/61249902/109499869-71b39680-7abb-11eb-828b-72eb04b9bb99.png)
+![image](https://user-images.githubusercontent.com/61249902/109501648-e8ea2a00-7abd-11eb-8c4f-0c17f622c9c2.png)
+
+
+![image](https://user-images.githubusercontent.com/61249902/109501702-fb646380-7abd-11eb-910b-ece614f49664.png)
+
 
 
 
