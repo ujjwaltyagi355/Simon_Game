@@ -33,7 +33,8 @@ https://ujjwaltyagi355.github.io/Simon_Game/
 * <strong>Note: How the <em>"title"</em> of the page changes.
 
 
-![image](https://user-images.githubusercontent.com/61249902/109501570-c6f0a780-7abd-11eb-9514-67e26dad39e8.png)
+![image](https://user-images.githubusercontent.com/61249902/109551188-3edac400-7af6-11eb-9072-0204c1c1db2b.png)
+
 
 ---
 
@@ -41,7 +42,8 @@ https://ujjwaltyagi355.github.io/Simon_Game/
 * <strong>Note:</strong> How the <em>"title"</em> of the page changes with the increase in Level.
 
 
-![image](https://user-images.githubusercontent.com/61249902/109501648-e8ea2a00-7abd-11eb-8c4f-0c17f622c9c2.png)
+![image](https://user-images.githubusercontent.com/61249902/109551264-587c0b80-7af6-11eb-9ecb-f08093a5ee49.png)
+
 
 ---
 
